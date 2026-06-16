@@ -51,11 +51,11 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=surajrawat11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawat11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=stock-price-predictor" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawat11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=stock-price-predictor&hide=html" width="40%" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=surajrawat11&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=surajrawat11&theme=tokyonight&hide_border=true&mode=weekly" width="48%" />
 </p>
 
 ---
