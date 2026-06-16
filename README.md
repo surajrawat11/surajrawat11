@@ -1,5 +1,4 @@
 # Hi, I'm Suraj Singh Rawat 👋
-
 🎓 B.Tech CSE (AI & ML) | MGM COET, AKTU Noida | 3rd Year (2024–2028)  
 🤖 ML Enthusiast | Building real-world projects with Python & Scikit-learn  
 📍 Noida, India
@@ -7,7 +6,6 @@
 ---
 
 ## 🚀 About Me
-
 - 🔭 Currently working on **Machine Learning & Financial Data Science**
 - 🌱 Learning **Probability, Statistics, Linear Algebra & Deep Learning**
 - 💡 Passionate about applying ML to solve real-world problems
@@ -16,7 +14,6 @@
 ---
 
 ## 📈 Featured Project
-
 ### [Nifty 50 Direction Predictor](https://github.com/surajrawat11/stock-price-predictor)
 > Predicting whether Nifty 50 will go UP ↑ or DOWN ↓ tomorrow using Machine Learning
 
@@ -28,7 +25,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -41,7 +37,6 @@
 ---
 
 ## 🏆 Certifications
-
 | Certificate | Issuer | Date |
 |---|---|---|
 | Generative AI Essentials | TCS iON / AI for All | Jun 2026 |
@@ -51,10 +46,6 @@
 | Gemini Certified University Student | Google for Education | Jan 2026 |
 
 ---
-
-
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -66,10 +57,9 @@
 ---
 
 ## 🤝 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-rawat-ai)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajrawat11)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://surajrawat11.github.io/stock-price-predictor)
+[![Project](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://surajrawat11.github.io/stock-price-predictor)
 
 ---
 
