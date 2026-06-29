@@ -1,42 +1,60 @@
-# Hi, I'm Suraj Singh Rawat 👋
-🎓 B.Tech CSE (AI & ML) | MGM COET, AKTU Noida | 3rd Year (2024–2028)  
-🤖 ML Enthusiast | Building real-world projects with Python & Scikit-learn  
-📍 Noida, India
+<h1 align="center">Hi 👋, I'm Suraj Singh Rawat</h1>
+<h3 align="center">🎓 3rd Year CSE (AI & ML) Student @ MGM COET, Noida | Data Science & AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Data+Science+Explorer;Python+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Machine Learning & Financial Data Science**
-- 🌱 Learning **Probability, Statistics, Linear Algebra & Deep Learning**
-- 💡 Passionate about applying ML to solve real-world problems
-- 🎯 Goal: Build impactful AI systems and grow as an ML Engineer
 
----
-
-## 📈 Featured Project
-### [Nifty 50 Direction Predictor](https://github.com/surajrawat11/stock-price-predictor)
-> Predicting whether Nifty 50 will go UP ↑ or DOWN ↓ tomorrow using Machine Learning
-
-- 📊 **4 years** of real NSE data (986 trading days)
-- ⚙️ **9 features** engineered — RSI, Moving Averages, Volatility
-- 🤖 **Random Forest** achieved **51.1% accuracy** — beat random baseline
-- 🌐 **[Live Demo](https://surajrawat11.github.io/stock-price-predictor)**
+- 🎓 Pursuing **B.Tech in CSE (AI & ML Specialization)** @ MGM COET, AKTU Noida *(2024–2028)*
+- 🤖 Passionate about **Data Science, Machine Learning & AI**
+- 📊 Love exploring **real-world datasets** and building intelligent systems
+- 🌱 Currently learning **Deep Learning, Statistics & Linear Algebra**
+- 💡 Always curious — whether it's a new algorithm, a dataset, or a side project
+- 📍 Based in Noida, India
 
 ---
 
 ## 🛠️ Tech Stack
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**AI / ML / Data Science**
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📌 Featured Project
+
+### 📈 Nifty 50 Direction Predictor
+> Predicting whether Nifty 50 will go **UP ↑** or **DOWN ↓** the next trading day using Machine Learning
+
+- 📊 4 years of real NSE data — 986 trading days
+- ⚙️ 9 engineered features: RSI, Moving Averages, Volatility & more
+- 🤖 Random Forest model — beat random baseline
+- 🌐 [Live Demo](#) | [View Repo](#)
 
 ---
 
 ## 🏆 Certifications
+
 | Certificate | Issuer | Date |
 |---|---|---|
 | Generative AI Essentials | TCS iON / AI for All | Jun 2026 |
@@ -49,22 +67,28 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajrawat11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawat11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=stock-price-predictor&hide=html" width="40%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajrawat11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawat11&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=surajrawat11&theme=tokyonight&hide_border=true&mode=weekly" width="48%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawat11&theme=tokyonight&hide_border=true" width="55%" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-rawat-ai)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajrawat11)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://surajrawat11.github.io/stock-price-predictor)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/suraj-rawat-ai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/surajrawat11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ *"The best way to learn ML is to build with it."*
+<p align="center">⭐ <i>"The best way to understand data is to let it tell its own story."</i></p>
