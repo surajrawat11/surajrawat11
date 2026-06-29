@@ -94,7 +94,7 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajrawat11&theme=tokyonight" width="80%" />
+
 
 </div>
 
