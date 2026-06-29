@@ -20,24 +20,28 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🔤 Core Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
 
-**AI / ML / Data Science**
+### 🤖 AI / ML & Data Science
+<img src="https://skillicons.dev/icons?i=sklearn" />
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools & Platforms**
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🧰 Dev Environments & Tools
+<img src="https://skillicons.dev/icons?i=vscode,idea,github,git" />
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+</div>
 
 ---
 
@@ -67,27 +71,32 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajrawat11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawat11&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawat11&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+<a href="https://www.linkedin.com/in/suraj-rawat-ai" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/suraj_rawat12" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(TWITTER)-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://github.com/surajrawat11" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-surajrawat11-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-## 🤝 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api?username=surajrawat11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawat11&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/suraj-rawat-ai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/surajrawat11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawat11&theme=tokyonight&hide_border=true" width="55%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajrawat11&theme=tokyonight" width="80%" />
+
+</div>
 
 ---
 
