@@ -47,13 +47,14 @@
 
 ## 📌 Featured Project
 
-### 📈 Nifty 50 Direction Predictor
-> Predicting whether Nifty 50 will go **UP ↑** or **DOWN ↓** the next trading day using Machine Learning
+#### 📈 Nifty 50 Direction Predictor
+Predicting whether Nifty 50 will go UP ↑ or DOWN ↓ the next trading day using Machine Learning
 
 - 📊 4 years of real NSE data — 986 trading days
 - ⚙️ 9 engineered features: RSI, Moving Averages, Volatility & more
 - 🤖 Random Forest model — beat random baseline
-- 🌐 [Live Demo](#) | [View Repo](#)
+
+🌐 [Live Demo](https://surajrawat11.github.io/stock-price-predictor) | [View Repo](https://github.com/surajrawat11/stock-price-predictor)
 
 ---
 
