@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh Rawat</h1>
-<h3 align="center">🎓 3rd Year CSE (AI & ML) Student @ MGM COET, Noida | Data Science & AI Enthusiast</h3>
+<h3 align="center">🎓 3rd Year CSE (AI & ML) Student @ MGM COET, AKTU Noida | Aspiring AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Data+Science+Explorer;Python+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Data+Science;Building+in+Public+on+GitHub;Open+Source+Contributor;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in CSE (AI & ML Specialization)** @ MGM COET, AKTU Noida *(2024–2028)*
-- 🤖 Passionate about **Data Science, Machine Learning & AI**
-- 📊 Love exploring **real-world datasets** and building intelligent systems
-- 🌱 Currently learning **Deep Learning, Statistics & Linear Algebra**
-- 💡 Always curious — whether it's a new algorithm, a dataset, or a side project
+- 🎓 B.Tech CSE (AI & ML Specialization) @ MGM COET, AKTU Noida *(2024–2028)*
+- 🤖 Focused on **Machine Learning, Data Science & applied AI**
+- 🛰️ Built a generative AI pipeline for satellite cloud removal at **ISRO Bharatiya Antriksh Hackathon 2026**
+- 🌱 Open source contributor — **GSSoC'26**
+- 📊 Currently building an **IPL 2026 data analysis project** and preparing for the **Microsoft PL-300 (Power BI Data Analyst)** certification
 - 📍 Based in Noida, India
 
 ---
@@ -22,22 +22,21 @@
 
 <div align="center">
 
-### 🔤 Core Languages
+### Core Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,js" />
 
-### 🤖 AI / ML & Data Science
+### AI / ML & Data Science
 <img src="https://skillicons.dev/icons?i=sklearn" />
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🗄️ Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
-### 🧰 Dev Environments & Tools
+### Dev Environments & Tools
 <img src="https://skillicons.dev/icons?i=vscode,idea,github,git" />
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
@@ -45,16 +44,32 @@
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-#### 📈 Nifty 50 Direction Predictor
-Predicting whether Nifty 50 will go UP ↑ or DOWN ↓ the next trading day using Machine Learning
-
+### 📈 Nifty 50 Direction Predictor
+Predicting whether Nifty 50 closes UP ↑ or DOWN ↓ the next trading day using ML.
 - 📊 4 years of real NSE data — 986 trading days
-- ⚙️ 9 engineered features: RSI, Moving Averages, Volatility & more
-- 🤖 Random Forest model — beat random baseline
+- ⚙️ 9 engineered features: RSI, moving averages, volatility & more
+- 🤖 Random Forest & Logistic Regression, benchmarked against a random baseline
 
-🌐 [Live Demo](https://surajrawat11.github.io/stock-price-predictor) | [View Repo](https://github.com/surajrawat11/stock-price-predictor)
+🌐 [Live Demo](https://surajrawat11.github.io/stock-price-predictor) &nbsp;|&nbsp; [View Repo](https://github.com/surajrawat11/stock-price-predictor)
+
+### 🛰️ Cloud Removal for Satellite Imagery — ISRO BAH 2026
+Team **Beyond Clouds** — Problem Statement 2: Generative AI-based cloud removal & reconstruction for LISS-IV satellite imagery.
+- 🧠 Conditional diffusion model with a SwinIR backbone
+- 🛰️ Multi-sensor fusion: LISS-IV + RISAT SAR + Sentinel-1/2
+- 🎯 Target metrics: PSNR > 30dB, SSIM > 0.90, SAM < 5°
+- 🌏 Focused on Northeast India's persistent cloud cover problem
+
+### 🏏 IPL 2026 Data Analysis *(in progress)*
+End-to-end exploratory data analysis on IPL 2026 match and player data in Jupyter Notebook — uncovering team, player, and match-level trends.
+
+---
+
+## 🌱 Open Source
+
+- 🎉 **GSSoC'26** — merged PR improving documentation for `story-spark-ai`
+- 🔍 Actively exploring **LFX Mentorship**, **GSoC**, and **Outreachy** for upcoming terms
 
 ---
 
@@ -67,6 +82,8 @@ Predicting whether Nifty 50 will go UP ↑ or DOWN ↓ the next trading day usin
 | Foundations: Data, Data, Everywhere | Google / Coursera | Apr 2026 |
 | Crash Course on Python | Google / Coursera | Mar 2026 |
 | Gemini Certified University Student | Google for Education | Jan 2026 |
+
+*🎯 Microsoft PL-300 (Power BI Data Analyst) — in progress*
 
 ---
 
@@ -92,10 +109,6 @@ Predicting whether Nifty 50 will go UP ↑ or DOWN ↓ the next trading day usin
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawat11&theme=tokyonight&hide_border=true" width="55%" />
-
-<br/>
-
-
 
 </div>
 
