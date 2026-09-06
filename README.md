@@ -116,6 +116,14 @@ Browser-based top-down shooter featuring an adaptive AI teammate that learns and
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/surajrawat11/surajrawat11/output/github-contribution-grid-snake.svg" alt="Suraj's contribution snake" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
