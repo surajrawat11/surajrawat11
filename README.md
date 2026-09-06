@@ -15,7 +15,6 @@
 - 🛰️ Built a generative AI pipeline for satellite cloud removal at ISRO Bharatiya Antriksh Hackathon 2026
 - 🌱 Open source contributor — GSSoC'26
 - 🏏 Built an end-to-end IPL 2026 data analysis project — EDA, player leaderboards, venue insights & a Random Forest match predictor
-- 📊 Preparing for the Microsoft PL-300 (Power BI Data Analyst) certification
 - 📍 Based in Noida, India
 
 ---
@@ -26,6 +25,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **AI / ML & Data Science**
@@ -40,6 +40,8 @@
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Dev Environments & Tools**
 
@@ -108,7 +110,6 @@ Browser-based top-down shooter featuring an adaptive AI teammate that learns and
 |---|---|---|
 | Generative AI Essentials | TCS iON / AI for All | Jun 2026 |
 | AI and Cybersecurity Awareness | TCS iON / AI for All | Jun 2026 |
-| Foundations: Data, Data, Everywhere | Google / Coursera | Apr 2026 |
 | Crash Course on Python | Google / Coursera | Mar 2026 |
 | Gemini Certified University Student | Google for Education | Jan 2026 |
 | Google Data Analytics Certificate | Google | Aug 2026 |
