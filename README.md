@@ -1,49 +1,51 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh Rawat</h1>
 <h3 align="center">🎓 3rd Year CSE (AI & ML) Student @ MGM COET, AKTU Noida | Aspiring AI/ML Engineer</h3>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Data+Science;Building+in+Public+on+GitHub;Open+Source+Contributor;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Machine+Learning+%7C+Data+Science+%7C+Applied+AI;Open+Source+Contributor+%40+GSSoC'26" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (AI & ML Specialization) @ MGM COET, AKTU Noida *(2024–2028)*
-- 🤖 Focused on **Machine Learning, Data Science & applied AI**
-- 🛰️ Built a generative AI pipeline for satellite cloud removal at **ISRO Bharatiya Antriksh Hackathon 2026**
-- 🌱 Open source contributor — **GSSoC'26**
-- 🏏 Built an end-to-end **IPL 2026 data analysis project** — EDA, player leaderboards, venue insights & a Random Forest match predictor
-- 📊 Preparing for the **Microsoft PL-300 (Power BI Data Analyst)** certification
+- 🎓 B.Tech CSE (AI & ML Specialization) @ MGM COET, AKTU Noida (2024–2028)
+- 🤖 Focused on Machine Learning, Data Science & applied AI
+- 🛰️ Built a generative AI pipeline for satellite cloud removal at ISRO Bharatiya Antriksh Hackathon 2026
+- 🌱 Open source contributor — GSSoC'26
+- 🏏 Built an end-to-end IPL 2026 data analysis project — EDA, player leaderboards, venue insights & a Random Forest match predictor
+- 📊 Preparing for the Microsoft PL-300 (Power BI Data Analyst) certification
 - 📍 Based in Noida, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Core Languages**
 
-### Core Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### AI / ML & Data Science
-<img src="https://skillicons.dev/icons?i=sklearn" />
+**AI / ML & Data Science**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+**Databases**
 
-### Dev Environments & Tools
-<img src="https://skillicons.dev/icons?i=vscode,idea,github,git" />
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+**Dev Environments & Tools**
 
-</div>
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -51,14 +53,15 @@
 
 ### 📈 Nifty 50 Direction Predictor
 Predicting whether Nifty 50 closes UP ↑ or DOWN ↓ the next trading day using ML.
+
 - 📊 4 years of real NSE data — 986 trading days
 - ⚙️ 9 engineered features: RSI, moving averages, volatility & more
 - 🤖 Random Forest & Logistic Regression, benchmarked against a random baseline
-
-🌐 [Live Demo](https://surajrawat11.github.io/stock-price-predictor) &nbsp;|&nbsp; [View Repo](https://github.com/surajrawat11/stock-price-predictor)
+- 🌐 [Live Demo](https://surajrawat11.github.io/stock-price-predictor) | [View Repo](https://github.com/surajrawat11/stock-price-predictor)
 
 ### 🛰️ Cloud Removal for Satellite Imagery — ISRO BAH 2026
-Team **Beyond Clouds** — Problem Statement 2: Generative AI-based cloud removal & reconstruction for LISS-IV satellite imagery.
+Team Beyond Clouds — Problem Statement 2: Generative AI-based cloud removal & reconstruction for LISS-IV satellite imagery.
+
 - 🧠 Conditional diffusion model with a SwinIR backbone
 - 🛰️ Multi-sensor fusion: LISS-IV + RISAT SAR + Sentinel-1/2
 - 🎯 Target metrics: PSNR > 30dB, SSIM > 0.90, SAM < 5°
@@ -66,18 +69,36 @@ Team **Beyond Clouds** — Problem Statement 2: Generative AI-based cloud remova
 
 ### 🏏 IPL 2026 Data Analysis
 End-to-end exploratory data analysis on IPL 2026 match, player, and ball-by-ball data across 8 CSVs.
+
 - 📊 Full EDA — player leaderboards, venue-wise trends, and team performance breakdowns
 - 🎯 Ball-by-ball powerplay analysis
 - 🤖 Random Forest model to predict match winners
+- 🔗 [View Notebook](https://github.com/surajrawat11/ipl-2026-analysis)
 
-🔗 [View Notebook](https://github.com/surajrawat11/DataScience/blob/main/Projects/IPL_2026.ipynb)
+### 🔎 ResearchMind — Multi-Agent AI Research System
+An autonomous research assistant that breaks the research process into specialized, coordinated agents — inspired by tools like GPT's Deep Research.
+
+- 🔎 **Search Agent** — finds relevant sources across the web
+- 📖 **Reader Agent** — extracts deeper information from selected sources
+- ✍️ **Writer Agent** — synthesizes findings into a structured report
+- 🧐 **Critic Agent** — reviews and evaluates the generated output
+- 🔄 **Workflow:** Topic → Search → Read → Synthesize → Critique → Final Report
+- 🛠️ **Tech Stack:** Python, LangChain, Groq, Tavily, BeautifulSoup, Streamlit
+- 🚀 [Live Demo](https://lnkd.in/dHaCFFNH) | 💻 [GitHub](https://lnkd.in/d4EgSBCs)
+
+### 🎮 AI Squad Commander
+Browser-based top-down shooter featuring an adaptive AI teammate that learns and reacts to combat patterns.
+
+- 🕹️ Built for an AI x Gaming hackathon
+- 🧠 Adaptive AI teammate — adjusts behavior based on player actions
+- 🌐 [View Repo](https://github.com/surajrawat11/AI-Squad-Commander)
 
 ---
 
 ## 🌱 Open Source
 
-- 🎉 **GSSoC'26** — merged PR improving documentation for `story-spark-ai`
-- 🔍 Actively exploring **LFX Mentorship**, **GSoC**, and **Outreachy** for upcoming terms
+- 🎉 GSSoC'26 — merged PR improving documentation for story-spark-ai
+- 🔍 Actively exploring LFX Mentorship, GSoC, and Outreachy for upcoming terms
 
 ---
 
@@ -91,35 +112,23 @@ End-to-end exploratory data analysis on IPL 2026 match, player, and ball-by-ball
 | Crash Course on Python | Google / Coursera | Mar 2026 |
 | Gemini Certified University Student | Google for Education | Jan 2026 |
 
-*🎯 Microsoft PL-300 (Power BI Data Analyst) — in progress*
+🎯 Microsoft PL-300 (Power BI Data Analyst) — in progress
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajrawat11&show_icons=true&theme=default" alt="Suraj's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawat11" alt="Suraj's GitHub Streak" height="165"/>
+</p>
 
-<a href="https://www.linkedin.com/in/suraj-rawat-ai" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/suraj_rawat12" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(TWITTER)-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://github.com/surajrawat11" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-surajrawat11-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=surajrawat11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawat11&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawat11&theme=tokyonight&hide_border=true" width="55%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawat11&layout=compact" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-<p align="center">⭐ <i>"The best way to understand data is to let it tell its own story."</i></p>
+<p align="center">
+⭐ <i>"The best way to understand data is to let it tell its own story."</i>
+</p>
