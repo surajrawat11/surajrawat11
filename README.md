@@ -111,8 +111,7 @@ Browser-based top-down shooter featuring an adaptive AI teammate that learns and
 | Foundations: Data, Data, Everywhere | Google / Coursera | Apr 2026 |
 | Crash Course on Python | Google / Coursera | Mar 2026 |
 | Gemini Certified University Student | Google for Education | Jan 2026 |
-
-🎯 Microsoft PL-300 (Power BI Data Analyst) — in progress
+| Google Data Analytics Certificate | Google | Aug 2026 |
 
 ---
 
