@@ -127,12 +127,12 @@ Browser-based top-down shooter featuring an adaptive AI teammate that learns and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajrawat11&show_icons=true&theme=default" alt="Suraj's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrawat11" alt="Suraj's GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=surajrawat11&show_icons=true&theme=default" alt="Suraj's GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=surajrawat11" alt="Suraj's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrawat11&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=surajrawat11&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 ---
